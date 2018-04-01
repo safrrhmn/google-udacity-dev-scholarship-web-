@@ -1,0 +1,40 @@
+/* add your CSS here */
+
+#image {
+    width: 300px;
+  }
+  
+  .fact {
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .border {
+    border: double;
+    border-bottom-color: darkgray;
+    border-top-color: darkgray;
+    border-left-color: darkgray;
+    border-right-color: darkgray;
+  }
+  
+  #body {
+    width: 300px;
+    box-shadow: 20px 20px 20px #888888;
+    margin: auto;
+    border: 3px solid green;
+    padding: 10px;
+  }
+  
+  .info {
+    padding: 2em;
+  }
+  
+  h3 {
+    padding: 2em;
+  }
+  

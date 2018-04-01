@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?    
+  * What has been easy?   
+  * What has been difficult?    
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?  
+
+---
+
+Your response goes here!
+
+1. It has been particularly amazing. I have learned a few things that I did not learn before from this course. Usage of <del>, <sup> and <hr> tags were amazing and it is interesting to know how much difference these can make.
+2. I would not say it was very easy. I needed to do some research and learn about new tags. I also found that <strike> tag is absolute according to https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strike and I used <del> instead to strikeout the deleted statement. So, I have learned new things after doing the research.
+3. Nothing so far. I just had to look up things and adjust my HTML accordingly.
+4. There are few things I followed specifically to make sure the problem I face can be solved correctly.
+  a. I made sure I have used the tags I have learned from previous lessons and from feedback forum.
+  b. I have put my HTML on Chrome in order to make sure that it looks like the mockup
+  c. I have researched MDN websites about the new tags that I needed. 
+  d. Made sure to use the HTML validator to validate my code
