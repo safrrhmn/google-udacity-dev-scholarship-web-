@@ -1,8 +1,0 @@
-*.exe
-node_modules
-package-lock.json
-.idea/google-udacity-dev-scholarship-web.iml
-.idea/google-udacity-dev-scholarship-web.iml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/workspace.xml
